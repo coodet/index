@@ -2,7 +2,7 @@
 
 
 
-<button onclick="document.location='index.html'">Main Page</button>
+
 
 <a href='https://www.freecodecamp.org/'><button>Link To freeCodeCamp</button></a>
 
