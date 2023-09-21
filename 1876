@@ -2,7 +2,7 @@
 
 
 
-<button onclick="document.location="index.html">Main page</button>
+<button onclick="document.location='index.html'">HTML Tutorial</button>
 
 
 
