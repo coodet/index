@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+
+
+
+<button onclick="document.location="index.html">Main page</button>
+
+
+
+
+</html>
