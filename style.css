@@ -3,6 +3,13 @@ header{
     font-size: 40px;
     font-family: fantasy;
     text-align: center;
+    
 }
 
+header:hover{
+    color :skyblue;
+}
 
+img{
+text-align: center;
+}
